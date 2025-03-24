@@ -1,4 +1,4 @@
 coco package cocopkg
 
 pub function version() -> (version String):
-    version = "0.0.1"
+    version = "0.0.2"
